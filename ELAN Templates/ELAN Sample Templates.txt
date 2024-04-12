@@ -1,0 +1,13 @@
+ELAN Sample Templates by Andrea Berez for free and open use by all.
+
+Template1.etf: 1 speaker, tiers for Text and Free Translation.
+
+Template2.etf: 2 speakers, tiers for Text and Free Translation.
+
+Template3.etf: 2 speakers, tiers for Text, Free Translation, and Gesture.
+
+Template4.etf: 1 speaker, tiers for Text, Word, Gloss, and Free Translation.
+
+Template5.etf: 2 speakers, tiers for Text, Word, Gloss, and Free Translation.
+
+Template6.etf: 2 speakers, tiers for Text, Word, Gloss, Free Translation, and Gesture.
