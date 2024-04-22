@@ -1,16 +1,16 @@
 # ELAN Workshop
 ## Workshop Plan
-1. Background to documentary linguistics
+1. [Background to documentary linguistics](#background-to-documentary-linguistics)
    1. [Goals](#Goals)
       1. Preservation through documentation
       2. Use in research
-   2. Methodological overview
+   2. [Methodological overview](#methodological-overview)
 2. [Overview of practical section](#overview-of-practical-session)
-3. Recording
+3. [Recording](#recording)
    1. Audio and video combined
    2. File management
    3. Audio quality
-4. ELAN
+4. [ELAN](#elan)
    1. Importing, creating project
    2. Synchronisation
    3. Segmentation
@@ -37,6 +37,8 @@ The practical component of this workshop will be divided into two parts:
 
 The recording part will cover the practise of recording linguistic data in the field, including the technical aspects of digital audio, as well as best practises in sorting and maintaining useable and useful data.
 The second part will introduce the software [ELAN](https://archive.mpi.nl/tla/elan), used for annotating and transcribing recorded data. It will cover the installation and setup of ELAN, the initial processing of data in ELAN, and ultimately the practical transcription of recorded data for analysis.
+
+> Throughout this workshop, we will be recording, preparing, and transcribing our own short lingustic activity. This activity will be described in boxes such as this one.
 ## Recording
 The greatest challenge in recording linguistic data is the fact that you only get one chance. Particularly when recording natural conversation, a bad or failed recording cannot readily be recovered or remade without expecting more time of speakers than is necessary. Given this, it is important to go into recording with intention, and with an awareness of how, where, and why these recordings will be used. This can then inform how you go about recording speakers.
 
@@ -46,7 +48,7 @@ What and where you are recording also needs to inform how you record speakers. I
 
 Lastly, but perhaps most importantly, is consent. It is important to make sure people are comfortable being recorded or filmed. Perhaps you had planned on recording someone in audio and video, but they do not want to be on video. Here, you should find an alternative method to make sure that you are still able to capture anything you need, or find something else to record instead.
 
-> For the purposes of this workshop, we are going to undertake a linguistic elicitation activity used to document how speakers of a language describes the locations of objects in relation to each other.
+> For the purposes of this workshop, we are going to undertake a linguistic elicitation activity used to document how speakers of a language describes the locations of objects in relation to each other. The [Man and Tree](https://archive.mpi.nl/islandora/object/lat%3A1839_da98dab1_75df_452a_8575_6b44137801e6) picture sets are run here as a guessing game between two people
    1. Audio and video combined
    2. File management
    3. Audio quality
