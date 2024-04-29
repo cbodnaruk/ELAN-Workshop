@@ -2,20 +2,18 @@
 ## Workshop Plan
 1. [Background to documentary linguistics](#background-to-documentary-linguistics)
    1. [Goals](#Goals)
-      1. Preservation through documentation
-      2. Use in research
    2. [Methodological overview](#methodological-overview)
 2. [Overview of practical section](#overview-of-practical-session)
 3. [Recording](#recording)
 4. [ELAN Setup](#elan)
-   1. Installing ELAN
-   2. Importing, creating project
-   3. Synchronisation
-   4. Segmentation
-5. Finally, transcription
-   1. Goals of transcription
-   2. How to transcribe language
-6. Where to from here
+   1. [Installing ELAN](#installing-elan)
+   2. [Importing, creating a project](#importing-creating-a-project)
+   3. [Synchronisation](#synchronisation)
+   4. [Segmentation](#synchronisation)
+5. [Finally, transcription](#finally-transcription)
+   1. [Goals of transcription](#synchronisation)
+   2. [How to transcribe language in ELAN](#how-to-transcribe-language-in-elan)
+6. [Where to from here](#where-to-from-here)
    
 
 ## Background to documentary linguistics
@@ -70,7 +68,7 @@ When working with a lot of recordings, it is important to have a system of file 
 ### Installing ELAN
 ELAN can be downloaded and installed from the [MPI website](https://archive.mpi.nl/tla/elan).
 
-### Importing, creating project
+### Importing, creating a project
 The [ELAN Templates](/ELAN%20Templates/) folder above contains a series of templates for use when creating ELAN projects. These templates are already set up for various types of recording, and will save us some work. They vary in two ways: the number of speakers, and the number of things being transcribed. Most important are the "text" and "free translation" tiers. "Text" refers to the actual content of the recording in the language, while "free translation" refers to a translation of the recording into the language in which the research is being conducted. These will be discussed in more detail later.
 
 When we open ELAN and select File > New... we are able to attach the files we will need in two groups, media and template. Media is everything we have recorded, including audio and video. Template is the template file discussed above.
