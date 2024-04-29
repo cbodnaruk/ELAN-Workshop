@@ -5,7 +5,7 @@
    2. [Methodological overview](#methodological-overview)
 2. [Overview of practical section](#overview-of-practical-session)
 3. [Recording](#recording)
-4. [ELAN Setup](#elan)
+4. [ELAN Setup](#elan-setup)
    1. [Installing ELAN](#installing-elan)
    2. [Importing, creating a project](#importing-creating-a-project)
    3. [Synchronisation](#synchronisation)
