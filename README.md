@@ -109,3 +109,11 @@ A challenge often faced by linguists in transcription is that you need to speak 
 This workshop stops short of explaining what "analysis" linguists actually do to document languages. This is, for many reasons, too complicated to be covered in a single workshop. That being said, there is a lot of linguistics work that can be done without needing a full university degree, especially if you are working with a language you speak. For instance, one of the first parts of language documentation is working out all the sounds of a language, something that is much easier to do if you speak the language.
 
 As linguists, we are always looking for people who are interested in their languages to help us with transcription and analysis, especially in terms of less studied or more endangered languages such as Lhokpu or Black Mountain Mönpa. This is especially the case at the moment with Gwen and Mareike's ongoing research projects here in Bhutan.
+
+## Other Notes
+### Adding a comments column
+
+### Typing in the Tibetan Script
+The default font in ELAN is not able to properly render the Tibetan script. If we want to write with it, we need to assign a new font to the speaker column. First, we need check which fonts we have installed that will display Tibetan, and then we can assign them to the text tiers.
+
+> Select View > Font Browser... and type some text in Tibetan in the box at the bottom "Paste UNICODE Text". It might appears a squares, or display incorrectly. Next, press the "Check" button at the bottom, and a list of fonts that can render Tibetan will appear in the box titled "Fonts that will Render text". Close the font browser window and select Tier > Change Tier Attributes. Select the first tier (Text-Speaker 1) then select "More Options..." and next to "Tier Font" select "Browse...". Select any of the Tibetan fonts which appears earlier in the font browser window, then press Apply, Apply, check the box "all tiers with the same type" to ensure that you can type Tibetan for all speakers, then Apply again. You can now close the Tier Attribute window and the Tibetan script should be working.
