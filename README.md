@@ -14,6 +14,9 @@
    1. [Goals of transcription](#synchronisation)
    2. [How to transcribe language in ELAN](#how-to-transcribe-language-in-elan)
 6. [Where to from here](#where-to-from-here)
+7. [Other Notes](#other-notes)
+   1. [Adding a Comments column](#adding-a-comments-column)
+   2. [Typing in the Tibetan script](#typing-in-the-tibetan-script)
    
 
 ## Background to documentary linguistics
@@ -112,6 +115,9 @@ As linguists, we are always looking for people who are interested in their langu
 
 ## Other Notes
 ### Adding a comments column
+In order to add a Comments column after the Free Translation column in our transcription, first we need to define a new tier type in our ELAN project, and then create a new tier of that type for each speaker. These instructions will create a comments column in transcription that allows us to add comments to a single segment. Alternatively, comments that exist independently can be created by setting the tier Stereotype to None and checking the Time-alignable box when creating the Tier Type.
+
+> Select Type > Add New Tier Type... For Type Name, we want something like "comments", for Stereotype, select Symbolic Association. Leave everything else and press "Add". Close this window and select Tier > Add New Tier... Following the existant naming convention, name the new tier "Comments-Speaker 1", select the Parent Tier as "Text-Speaker 1" and the Tier Type as "comments". Press "Add" and repeat this process for each speaker.
 
 ### Typing in the Tibetan Script
 The default font in ELAN is not able to properly render the Tibetan script. If we want to write with it, we need to assign a new font to the speaker column. First, we need check which fonts we have installed that will display Tibetan, and then we can assign them to the text tiers.
